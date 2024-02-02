@@ -10,6 +10,6 @@
 
     'depends': ['project'],
     'data': [
-            
+        'views/view_tareas.xml'
     ]
 }
